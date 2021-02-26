@@ -1,0 +1,20 @@
+Java 
+0Envolve dois elemntos uma linguagem de programação e uma plataforma de software (
+    JDK - API 
+ máquina virtual)
+Java Vitrual machine (JMV); Serve como interpretador para o Java
+
+Multi-thread: Core virtual, pequenos sistemas executados pelo processador
+
+interpretada: executados parte por parte (JVM)
+
+Indepdente da arquitetura: interpretada para um .class
+
+Portável: 
+
+Alto desempenho: Tem alto desempenho, mas a JVM é lenta. (loading)
+
+Robusta: Faz qualquer coisa em Java.
+
+JRE executados
+JDK inclui o compiilador
